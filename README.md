@@ -36,7 +36,6 @@ This project will use this 100k diabetes dataset to analyze any possible trends 
 - Duplicates: 14 duplicates
 - Outliers:
 - Some outliers in BMI, hbA1c level, blood glucose level.
-"""
 
 ## Project Outline
 
