@@ -5,7 +5,9 @@ Franklin Du
 ## Description
 
 DATASET: Comprehensive Diabetes Clinical Dataset(100k rows)
+
 SOURCE: https://www.kaggle.com/datasets/priyamchoksi/100000-diabetes-clinical-dataset
+
 DESCRIPTION: 100,000 Diabetes Dataset for Predictive Modeling and Health Analytics
 
 This project will use this 100k diabetes dataset to analyze any possible trends between diabetes and several different variables within the dataset. The variables that will be analyzed are: where the individual lives, their race, their hypertension, possible heart disease, smoking history, bmi, and blood glucose levels. The data will first be cleaned and condensed, reducing the race columns into a singular column and dealing with any missing data. Then each variables will be compared to the diabetes column using the corresponding tests to see if there is any correlation between those variables and whether or not the individual has diabetes.
